@@ -11,3 +11,5 @@ bandana is not a pyramid word because you have 1 'b' and 1 'd'.
 
 __Technologies:__ 
 Java,Jersey,Maven,Heroku(cloud service),Junit
+
+* I have also added few unit tests cases
